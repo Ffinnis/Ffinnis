@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Front‑end Engineer with over 5 years of experience building everything from marketing landing pages to large‑scale B2B e‑commerce platforms. I love optimizing performance, crafting maintainable code, and collaborating across teams to deliver high‑impact solutions.
+Lead Frontend Engineer (Vue/React, TS) focused on performance and platform engineering—migrations, micro-frontends, robust testing, and DX. Shipped large-scale e-commerce/logistics interfaces, unified platforms on Nuxt 3, and built interactive 3D visualizations with three.js. Mentor and team lead; comfortable across Node, CI/CD, Docker, AWS
 
 - 🔭 Currently leading front‑end development and architecture at **Uzum** (Engineering Manager / Lead Frontend Developer)
 - 🌱 Passionate about mentoring engineers, refining workflows, and adopting cutting‑edge web technologies
@@ -29,26 +29,28 @@ I’m a Front‑end Engineer with over 5 years of experience building everything
 ## 💼 Experience Highlights
 
 ### Uzum (May 2024 – Present)
-- Refactored and migrated 200+ components from Vue 2 to Vue 3, upgraded to FSD architecture, improving team throughput by **16%**
-- Led full lifecycle of a major Epic: from requirements and grooming to zero‑bug production release, boosting packing speed by **26%**
-- Engineered performance optimizations that increased FCP, LCP, and TTFB metrics by **53%**
-- Managing a cross‑functional group of 10 (2 QA, 4 backend, PM, Flutter, frontend, data analytics), achieving **102.3%** of Q1 KPI targets
+- Migrated 200+ components from Vue 2 to Vue 3 and FSD → team productivity +16%
+- Optimized rendering and bundle → FCP/LCP/TTFB reduced by 53%
+- Developed complex warehouse interfaces; led the full cycle from contracts/approvals to production release
+- Implemented E2E testing with Playwright; covered 53 critical path scenarios (CI integration, traces, retries)
+- Designed and implemented an interactive 3D warehouse map using three.js → operations per hour (OPH) +16%
 
 ### Ozon (May 2023 – May 2024)
-- Delivered 7 Epics to production without incidents, contributing to **$32.2M** GMV growth
-- Identified and fixed core package issues to reduce FCP/LCP peaks by **1200%**
-- Supported 5 adjacent projects, resolving 106 tickets and saving ~$420K in hiring costs
-- Pioneered micro‑frontends across 16 teams, halving time‑to‑market
+- Built step-by-step flow with autosave, drafts, and validation → warehouse/method creation conversion +9%
+- Fixed core-package bugs → peak FCP/LCP reduced by 12×
+- Migrated services of 5 teams to Nuxt 3 and a unified FE platform; fixed critical bugs and added features → saved $1M on hiring
+- Developed micro-frontend architecture in a monorepo for 16 teams → Time-to-Market 50%
 
 ### Samolet Plus (Feb 2022 – May 2023)
-- Established GitLab CI/CD, linting, strict typing and testing practices, cutting incidents by **40%**
-- Built a UI kit of 40+ components, integrated Sentry & PostHog, reaching **99.99%** uptime and boosting retention from 72% to 86%
-- Architected and delivered a passports moderation system, reducing review time by **64%**
+- Introduced GitLab CI/CD, linters/formatters, tests, and strict typing → incidents 40%
+- Built a 40+ component UI-kit from scratch; integrated Sentry and ClickStream → uptime 99.8%, retention 72% → 86%
+- Developed passport moderation system as a Fullstack engineer → moderation time 64%
+- Led a team of 5 FE engineers → annual OKRs closed 2 months ahead of schedule
 
 ### EPAM Systems (May 2020 – Feb 2022)
-- Developed a company boilerplate that accelerated new projects by **33%**
-- Created a real‑time CNC machine interface, enhancing worker productivity by **47%**
-- Mentored junior developers and streamlined onboarding, lowering turnover by **24%**
+- Created boilerplate for the team → development speed +33%
+- Built a real-time interface for CNC machines using WebSockets → factory employee productivity +47%
+- Mentored junior developers and set up onboarding → turnover 24%
 
 ## 🎓 Education
 
