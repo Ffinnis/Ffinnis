@@ -47,14 +47,14 @@ Lead Frontend Engineer (Vue/React, TS) focused on performance and platform engin
 - Developed passport moderation system as a Fullstack engineer → moderation time 64%
 - Led a team of 5 FE engineers → annual OKRs closed 2 months ahead of schedule
 
-### EPAM Systems (May 2020 – Feb 2022)
+### Alfatell (May 2020 – Feb 2022)
 - Created boilerplate for the team → development speed +33%
 - Built a real-time interface for CNC machines using WebSockets → factory employee productivity +47%
 - Mentored junior developers and set up onboarding → turnover 24%
 
 ## 🎓 Education
 
-**Novosibirsk State University** — M.Sc. in Software Engineering & Computer Science (2022–2024)
+**Novosibirsk State University** — M.Sc. in Software Engineering & Computer Science (2025)
 
 ## 🌍 Languages
 
